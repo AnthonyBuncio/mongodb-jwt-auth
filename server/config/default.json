@@ -1,0 +1,4 @@
+{
+  "mongoURI": "enter mongoDB connection string",
+  "jwtSecret": "000000000"
+}
